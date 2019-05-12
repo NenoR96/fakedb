@@ -1,11 +1,124 @@
 {
+  "users": [
+{
+    "id": "1",
+    "age": 37,
+    "gender": "male",
+    "email": "john@cinesanct.com",
+    "password": "test123",
+    "about": "Sit dolore ex pariatur dolor minim ut duis amet est minim id consectetur dolor. Cupidatat laboris et aliqua labore officia veniam aliquip ad dolore magna in. Lorem in cillum aliquip commodo officia dolore reprehenderit id nisi incididunt aliqua. Tempor fugiat voluptate culpa voluptate qui magna quis incididunt laborum. Id consectetur excepteur dolor dolor voluptate.\r\n",
+    "registered": "2019-03-13T11:39:03 -01:00"
+  },
+  {
+    "id": "2",
+    "age": 27,
+    "gender": "male",
+    "email": "eddie@cinesanct.com",
+    "password": "test123",
+    "about": "Officia consequat elit in dolor occaecat voluptate ea non adipisicing do aliquip. Dolore id anim occaecat sit sunt. Nulla ex sint eu aliquip minim pariatur aliqua ullamco quis duis officia mollit enim. Exercitation sunt qui et proident laborum ipsum aliqua mollit fugiat anim. Consectetur cillum excepteur nulla est ullamco duis officia enim nisi voluptate.\r\n",
+    "registered": "2017-05-10T07:08:58 -02:00"
+  },
+  {
+    "id": "3",
+    "age": 21,
+    "gender": "male",
+    "email": "george@cinesanct.com",
+    "password": "test123",
+    "about": "Aute est minim eiusmod pariatur sunt exercitation. Irure mollit et non excepteur minim dolore pariatur officia quis cupidatat. Esse ipsum non proident magna officia aliquip eu cillum quis eu qui dolore aliqua. Aliquip quis consectetur labore ullamco dolor voluptate ullamco eiusmod proident ullamco anim eiusmod. Sint mollit id ut ad.\r\n",
+    "registered": "2018-08-05T12:26:26 -02:00"
+  },
+  {
+    "id": "4",
+    "age": 32,
+    "gender": "female",
+    "email": "helena@cinesanct.com",
+    "password": "test123",
+    "about": "Qui nulla qui incididunt adipisicing eiusmod consectetur adipisicing culpa ut. Ea mollit officia fugiat officia mollit amet incididunt nisi. Ea exercitation cillum labore anim ad eiusmod labore. Eiusmod consequat incididunt laborum velit fugiat qui tempor ipsum qui nostrud.\r\n",
+    "registered": "2019-03-08T03:04:29 -01:00"
+  },
+  {
+    "id": "5",
+    "age": 28,
+    "gender": "female",
+    "email": "sophia@cinesanct.com",
+    "password": "test123",
+    "about": "Tempor occaecat ipsum est nostrud mollit proident duis adipisicing. Enim et dolor adipisicing magna Lorem aliquip excepteur ut incididunt magna aute duis sunt magna. Tempor duis consequat irure pariatur minim reprehenderit id excepteur ut pariatur sit. Magna cupidatat irure do ut. Mollit ea est non voluptate et adipisicing. Qui pariatur veniam elit magna proident enim reprehenderit deserunt. Fugiat commodo veniam id tempor est.\r\n",
+    "registered": "2014-10-26T08:08:41 -01:00"
+  },
+  {
+    "id": "6",
+    "age": 22,
+    "gender": "female",
+    "email": "maria@cinesanct.com",
+    "password": "test123",
+    "about": "Non irure magna Lorem est anim non aliquip ex aliqua nostrud qui. Incididunt enim nostrud enim esse ex. Ut aliquip nulla duis non. In esse laboris qui deserunt nulla sunt pariatur.\r\n",
+    "registered": "2017-07-16T10:51:31 -02:00"
+  }],
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+{
+    "userId": 1,
+    "id": 1,
+    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "qui est esse",
+    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+    "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+  },
+  {
+    "userId": 2,
+    "id": 4,
+    "title": "eum et est occaecati",
+    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+  },
+  {
+    "userId": 2,
+    "id": 5,
+    "title": "nesciunt quas odio",
+    "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
+  },
+  {
+    "userId": 2,
+    "id": 6,
+    "title": "dolorem eum magni eos aperiam quia",
+    "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
+  },
+  {
+    "userId": 3,
+    "id": 7,
+    "title": "magnam facilis autem",
+    "body": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
+  },
+  {
+    "userId": 3,
+    "id": 8,
+    "title": "dolorem dolore est ipsam",
+    "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae"
+  },
+  {
+    "userId": 4,
+    "id": 9,
+    "title": "nesciunt iure omnis dolorem tempora et accusantium",
+    "body": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas"
+  },
+  {
+    "userId": 4,
+    "id": 10,
+    "title": "optio molestias id quia eum",
+    "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
+  },
+  {
+    "userId": 4,
+    "id": 11,
+    "title": "et ea vero quia laudantium autem",
+    "body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi"
+  }]
 }
